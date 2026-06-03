@@ -1,0 +1,8 @@
+{
+  "talk": [
+    "body interact.wav"
+  ],
+  "noise": [
+    "talk1.wav"
+  ]
+}
