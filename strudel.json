@@ -1,8 +1,5 @@
 {
   "talk": [
-    "body interact.wav"
+    "autonomy.wav","eyecontact.wav", "pres.wav", "social.wav", "still.wav", "sublime.wav", "tool.wav"
   ],
-  "noise": [
-    "talk1.wav"
-  ]
 }
